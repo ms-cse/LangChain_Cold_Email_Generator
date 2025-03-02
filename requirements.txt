@@ -1,0 +1,13 @@
+pandas
+
+langchain
+langchain_community
+
+
+langchain_groq
+
+chromadb
+
+python-dotenv
+
+streamlit
